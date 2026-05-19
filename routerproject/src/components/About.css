@@ -1,0 +1,14 @@
+.one{
+    background-color: #dfaa40;
+    padding: 20px;
+    border-radius: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.one about-image{
+    display: block;
+    margin: 16px auto;
+    max-width: 70%;
+    height: auto;
+    border-radius: 50px;
+    background-color: rgb(144, 109, 63);
+}

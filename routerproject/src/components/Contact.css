@@ -1,0 +1,32 @@
+.three{
+    background-color: #dfaa40;
+    padding: 20px;
+    border-radius: 5px;
+}
+.three h1{
+    color: rgb(219, 21, 21);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.three h2{
+    color: rgb(219, 21, 21);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.three h3{
+    color: rgb(219, 21, 21);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(225, 179, 123);
+}
+.three p{
+    color: rgb(72, 63, 63);
+    font-size: larger;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.three .contact-image{
+    display: block;
+    margin: 16px auto;
+    max-width: 50%;
+    height: auto;
+    border-radius: 50px;
+}
